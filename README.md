@@ -2,38 +2,31 @@
 
 A collection of quickstart samples demonstrating the Firebase APIs on Android. For more information, see https://firebase.google.com.
 
-## Samples
+# About the PostBlogOnFirebase app
+The purpose of this app is to make an app which can be used by many user to post the information having a picture as well.The information posted by any user would be availabe to all the friends that the user have. It works more or less like a instagram app.
 
-You can open each of the following samples as an Android Studio project, and run
-them on a mobile device or a virtual device (AVD). When doing so you need to
-add each sample app you wish to try to a Firebase project on the [Firebase
-console](https://console.firebase.google.com). You can add multiple sample apps
-to the same Firebase project. There's no need to create separate projects for
-each app.
+# Technologies used 
 
-To add a sample app to a Firebase project, use the `applicationId` value specified
-in the `app/build.gradle` file of the app as the Android package name. Download
-the generated `google-services.json` file, and copy it to the `app/` directory of
-the sample you wish to run.
+Android , Firebase ,Authentication ,xml ,Android studio ,java etc.
 
-- [Admob](admob/README.md)
-- [Analytics](analytics/README.md)
-- [App-Indexing](app-indexing/README.md)
-- [Auth](auth/README.md)
-- [Config](config/README.md)
-- [Crash](crash/README.md)
-- [Database](database/README.md)
-- [Firestore](firestore/README.md)
-- [Functions](functions/README.md)
-- [Dynamic Links](dynamiclinks/README.md)
-- [In-App Messaging](inappmessaging/README.md)
-- [Messaging](messaging/README.md)
-- [ML Kit](mlkit/README.md)
-- [ML Kit LanguageID](mlkit-langid/README.md)
-- [ML Kit Smart Reply](mlkit-smartreply/README.md)
-- [ML Kit Translate](mlkit-translate/README.md)
-- [Performance Monitoring](perf/README.md)
-- [Storage](storage/README.md)
+# Images of the App.
+ 1 . Screen to upload the post.
+ 
+![WhatsApp Image 2021-01-12 at 01 53 15](https://user-images.githubusercontent.com/38702501/104234759-ec781200-5479-11eb-82ad-fc6869df9c0f.jpeg)
+
+2 . Screen of Login page
+
+![WhatsApp Image 2021-01-12 at 01 53 15 (1)](https://user-images.githubusercontent.com/38702501/104234776-f437b680-5479-11eb-98e2-eb2dcd248dc2.jpeg)
+
+3 . Sign Up Page
+
+![WhatsApp Image 2021-01-12 at 01 53 15 (2)](https://user-images.githubusercontent.com/38702501/104234786-f8fc6a80-5479-11eb-9dc9-351f15fd8c79.jpeg)
+
+4  . All the posts page.
+
+![WhatsApp Image 2021-01-12 at 01 53 15 (3)](https://user-images.githubusercontent.com/38702501/104234799-fc8ff180-5479-11eb-8e7f-fe80334d5f6e.jpeg)
+
+
 
 ## How to make contributions?
 Please read and follow the steps in the [CONTRIBUTING.md](CONTRIBUTING.md)
